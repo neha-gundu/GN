@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Neha</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #fffaf0;
+    }
+    h1 {
+      color: #333;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>About Me</h1>
+  <p>I'm Neha from Nagpur, passionate about technology, creativity, and learning new things.</p>
+  <p><a href="index.html">← Back to Home</a></p>
+</body>
+</html>
